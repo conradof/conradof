@@ -24,10 +24,6 @@ I study Robotics Engineering at the Federal University of Rio Grande (FURG), in 
 - 🌐 Built the website of FURG's Memory Center (NUME) with Joomla and JavaScript
 - 💬 Portuguese (native) · English (advanced) · Spanish (intermediate)
 
-### Work you can see
-
-- [**FBOTWork/micky_3d_models**](https://github.com/FBOTWork/micky_3d_models) — printable parts for the Open MICKY robot: battery case with hot-swap connectors, motor mounts, PCB and driver supports, emergency button mount.
-
 ### Achievements
 
 - 🥇 **Brazilian Robotics Competition 2025** — RoboCup@Work (Entry Level), Vitória
